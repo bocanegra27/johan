@@ -2,3 +2,4 @@ vegeta
 gohan
 naruto 
 bills
+frezzer
